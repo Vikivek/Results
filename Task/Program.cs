@@ -36,7 +36,7 @@ void Print(string[] strArray)
     Console.Write("[");
     for (int i = 0; i < strArray.Length; i++)
     {
-        Console.Write($"{stringArray[i]} ");
+        Console.Write($"{strArray[i]} ");
     }
     Console.Write("]");
 }
